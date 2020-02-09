@@ -104,7 +104,7 @@ def writeToFile(fileName, data):
 
 print(numSyllables("ablution"))
 #TODO ALSO COUNT SYLLABLES IN THE HYPHENATED VERSION ON MERRIAM, its probably a lot easier
-#fuck me, also save the syllabified version as a 3rd column
+#flip me, also save the syllabified version as a 3rd column
 saveSize = 50
 outList = []
 outName = "wordsyllables.csv"
