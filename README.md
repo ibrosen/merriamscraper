@@ -1,4 +1,4 @@
-# merriamscraper
+# merriamscraper is an awesome project
 beginnings of code to scrape merriam-webster for all words in the english language, extracting the phonetics of every word from the web pages to get the syllables
 <h1>Why?</h1>
 For my haiku generator (haikugenerate.com) I need the syllables for every word, to keep the 5 7 5 syllable structure. 
